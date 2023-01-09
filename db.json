@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Anshuman Behera",
+      "username": "Anshu",
+      "email": "anshuman.behera@brainvire.com",
+      "phone": "354875965743",
+      "website": "https://www.youtube.com/@anshumanbehera5228/videos",
+      "id": 1
+    },
+    {
+      "name": "Arpita Behera",
+      "username": "Arpita",
+      "email": "anshuman.behera@brainvire.com",
+      "phone": "354875965743",
+      "website": "https://www.youtube.com/@anshumanbehera5228/videos",
+      "id": 2
+    },
+    {
+      "name": "Aaradhya Behera",
+      "username": "Aaru",
+      "email": "aaradhya.behera@brainvire.com",
+      "phone": "354875965743",
+      "website": "https://www.youtube.com/@anshumanbehera5228/videos",
+      "id": 3
+    },
+    {
+      "name": "Aayansh Behera",
+      "username": "Aayansh",
+      "email": "aayansh@google.com",
+      "phone": "34562728363",
+      "website": "https://www.youtube.com/@anshumanbehera5228/videos",
+      "id": 4
+    }
+  ]
+}
